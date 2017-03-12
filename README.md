@@ -3,12 +3,12 @@
 
 Fancy is a free, self-hosted, asynchronous bot for TeamSpeak 3.
 
-  - [Installation](#Installation)
-  - [Configuration](#Configuration)
-  - [Features](#Features)
-  - [Permissions](#Permissions)
-  - [Commands](#Commands)
-  - [License](#License)
+  - [Installation](#installation)
+  - [Configuration](#configuration)
+  - [Features](#features)
+  - [Permissions](#permissions)
+  - [Commands](#commands)
+  - [License](#license)
 
 ### It's as simple as can be
   - Install [node.js]
